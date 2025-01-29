@@ -40,15 +40,7 @@ This is a simple Tic-Tac-Toe game built with React.
 - Game log showing the moves
 - Game over screen with the winner or draw message
 - Rematch button to restart the game
-
-## Screenshots
-
-### Game Board
-![Game Board](path/to/game-board-screenshot.png)
-
-### Game Over Screen
-![Game Over Screen](path/to/game-over-screenshot.png)
-
+- 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](http://_vscodecontentref_/2) file for details.
